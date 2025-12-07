@@ -1,34 +1,36 @@
-# Super IMC Calculator
+# Super IMC Calculator 🚀
 
-Calculadora de IMC com visual futurista e intuitivo.
+Bem-vindo ao Super IMC Calculator! Esta é a minha calculadora de IMC feita com carinho e um toque futurista 💫. Aqui você pode descobrir seu Índice de Massa Corporal de forma rápida, fácil e com uma experiência visual super moderna.
 
-## 🚀 Experimente agora
+## 🌐 Experimente agora
 
-O projeto já está disponível na web: [superimcmariasambe.manus.space](https://superimcmariasambe.manus.space)  
-A publicação e parte da automatização foi realizada com auxílio do Manus IA.
+O site tá no ar para quem quiser usar:  
+👉 [superimcmariasambe.manus.space](https://superimcmariasambe.manus.space)
 
-## ✨ Sobre o projeto
+## 🤔 O que é isso?
 
-Super IMC Calculator é uma ferramenta rápida e fácil para calcular o Índice de Massa Corporal (IMC). O design futurista proporciona uma experiência moderna, divertida e prática para o usuário.
+O Super IMC Calculator foi criado para facilitar o cálculo do IMC sem aquele visual de planilha habitual. O meu objetivo foi criar algo simples, funcional e, claro, com uma interface que chama atenção.
 
-## 🖥️ Como usar
+## 👩‍🔬 Como usar?
 
-1. Acesse o site (ou utilize os arquivos deste repositório).
-2. Informe seu peso e altura nos campos indicados.
-3. Clique em **Calcular**.
-4. Veja instantaneamente seu IMC e uma classificação personalizada.
+1. Informe seu peso e altura.
+2. Clique em “Calcular”.
+3. Veja o resultado do seu IMC e também a classificação que indica como anda sua saúde.
 
-## 🛠️ Tecnologias usadas
+## 💻 Tecnologias
 
+Tudo aqui foi feito com:
 - HTML
-- CSS (com design futurista)
-- JavaScript
-- Manutenção e deploy com auxílio do Manus IA
+- CSS (experiência com efeitos futuristas)
+- JavaScript 
 
-## 👩‍💻 Autor(a)
+## 📝 Sobre
 
-Desenvolvido por [MariaSambe](https://github.com/MariaSambe).
+Projeto feito por mim, MariaSambe, como parte dos meus estudos e paixão por tecnologia — e também para pôr a criatividade em prática!
+
+Sinta-se totalmente à vontade para usar.
+Se gostares, compartilha! Se achares algo que possa melhorar, comenta!
 
 ---
 
-Sinta-se à vontade para sugerir melhorias!
+Feito para quem gosta de aprender, de saúde e de um design diferente 😉
