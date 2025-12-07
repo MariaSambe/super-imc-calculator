@@ -1,36 +1,39 @@
 # Super IMC Calculator 🚀
 
-Bem-vindo ao Super IMC Calculator! Esta é a minha calculadora de IMC feita com carinho e um toque futurista 💫. Aqui você pode descobrir seu Índice de Massa Corporal de forma rápida, fácil e com uma experiência visual super moderna.
+Olá e bem-vindo ao Super IMC Calculator!  
+Esta é a minha versão da calculadora de IMC, feita com entusiasmo, criatividade e aquele toque futurista que adoro 💫. Aqui podes descobrir rapidamente o teu Índice de Massa Corporal, sem complicações e com uma interface que coonsidero difernete do habitual.
 
-## 🌐 Experimente agora
+## 🌐 Experimenta já
 
-O site tá no ar para quem quiser usar:  
+O site está disponível para todos:  
 👉 [superimcmariasambe.manus.space](https://superimcmariasambe.manus.space)
 
-## 🤔 O que é isso?
+## 🤔 Do que se trata?
 
-O Super IMC Calculator foi criado para facilitar o cálculo do IMC sem aquele visual de planilha habitual. O meu objetivo foi criar algo simples, funcional e, claro, com uma interface que chama atenção.
+O Super IMC Calculator nasceu da vontade de facilitar o cálculo do IMC, mas sem aquela sensação de folha de cálculo. Quis criar algo simples, útil e visualmente apelativo — porque calcular o IMC também pode ser uma experiência interessante!
 
 ## 👩‍🔬 Como usar?
 
-1. Informe seu peso e altura.
-2. Clique em “Calcular”.
-3. Veja o resultado do seu IMC e também a classificação que indica como anda sua saúde.
+1. Escreve o teu peso e a tua altura.
+2. Carrega em “Calcular”.
+3. Vê logo o teu IMC e outra funcionalidades que serão uteis na perda de peso.
 
-## 💻 Tecnologias
+## 💻 O que usei para criar
 
-Tudo aqui foi feito com:
+Este projecto foi feito com:
 - HTML
-- CSS (experiência com efeitos futuristas)
-- JavaScript 
+- CSS (gastei algum tempo a brincar com os efeitos futuristas!)
+- JavaScript a sério, daqueles sem frameworks
 
-## 📝 Sobre
+## 🤝 Agradecimentos
 
-Projeto feito por mim, MariaSambe, como parte dos meus estudos e paixão por tecnologia — e também para pôr a criatividade em prática!
+O Manus AI deu uma grande ajuda, especialmente com a parte da publicação e alguns ajustes técnicos. Foi um excelente parceiro nesta aventura!
 
-Sinta-se totalmente à vontade para usar.
-Se gostares, compartilha! Se achares algo que possa melhorar, comenta!
+## 📝 Sobre mim
+
+Sou a MariaSambe, adoro tecnologia, gosto de pôr as ideias em prática e este projecto foi mais uma forma de aprender, criar e partilhar.  
+Sente-te à vontade para usar e dar sugestões. Se gostares, partilha com alguém! E se achas que posso melhorar, diz sem hesitar.
 
 ---
 
-Feito para quem gosta de aprender, de saúde e de um design diferente 😉
+Feito para quem gosta de aprender, cuidar da saúde e para quem curte um design diferente 😉
